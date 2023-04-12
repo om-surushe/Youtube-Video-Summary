@@ -21,3 +21,16 @@ Summarization customization: Provide options for the user to customize the summa
 Integration with other tools: Integrate your application with other tools or services, such as text-to-speech or cloud-based video hosting platforms.
 
 User interface: Create a graphical user interface (GUI) to make it easier for users to interact with your application.
+
+Reseach Papers
+
+Video Summarization
+    - [A Study on Video Summarization Techniques](https://www.rroij.com/open-access/a-study-on-video-summarization-techniques.pdf)
+    - [Digital Video Summarization Techniques: A Survey](https://www.researchgate.net/publication/338526880_Digital_Video_Summarization_Techniques_A_Survey)
+    - [Video Summarization Using Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.06072)
+    - [Video Summarization Techniques: A Review](https://www.researchgate.net/publication/349054318_Video_Summarization_Techniques_A_Review)
+    - [Investigating the Effectiveness of YouTube as a Learning Tool among EFL Students at Baghdad University](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3676002)
+    
+Speech to text
+    - [Speech-to-Text: A Review of Recent Advances](https://arxiv.org/abs/2101.06072)
+    - [Speech to text conversion and summarization for effective understanding and documentation](https://www.researchgate.net/publication/349054318_Video_Summarization_Techniques_A_Review)
